@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="config"/>
+	<buildpathentry kind="src" path="controllers"/>
+	<buildpathentry kind="src" path="Core/Business"/>
+	<buildpathentry kind="src" path="Core/Foundation/Database"/>
+	<buildpathentry kind="src" path="Core/Foundation/Exception"/>
+	<buildpathentry kind="src" path="Core/Foundation/Filesystem"/>
+	<buildpathentry kind="src" path="Core/Foundation/IoC"/>
+	<buildpathentry kind="src" path="css"/>
+	<buildpathentry kind="src" path="docs"/>
+	<buildpathentry kind="src" path="download"/>
+	<buildpathentry kind="src" path="img"/>
+	<buildpathentry kind="src" path="install"/>
+	<buildpathentry kind="src" path="js"/>
+	<buildpathentry kind="src" path="localization"/>
+	<buildpathentry kind="src" path="log"/>
+	<buildpathentry kind="src" path="mails"/>
+	<buildpathentry kind="src" path="modules"/>
+	<buildpathentry kind="src" path="override"/>
+	<buildpathentry kind="src" path="pdf"/>
+	<buildpathentry kind="src" path="themes"/>
+	<buildpathentry kind="src" path="tools"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
