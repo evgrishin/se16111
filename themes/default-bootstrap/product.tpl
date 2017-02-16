@@ -678,7 +678,7 @@
 </div> <!-- itemscope product wrapper -->
 {strip}
 {if isset($smarty.get.ad) && $smarty.get.ad}
-	{addJsDefL name=ad}{$base_dir|cat:$smarty.get.ad|escape:'html':'UTF-8'}{/addJsDefL}
+	{addJsDefL name=ad}{$base_dir_ssl|cat:$smarty.get.ad|escape:'html':'UTF-8'}{/addJsDefL}
 {/if}
 {if isset($smarty.get.adtoken) && $smarty.get.adtoken}
 	{addJsDefL name=adtoken}{$smarty.get.adtoken|escape:'html':'UTF-8'}{/addJsDefL}

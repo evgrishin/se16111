@@ -119,7 +119,7 @@
 		</a>
 	</li>
 	<li>
-		<a class="btn btn-default button button-small" href="{$base_dir}">
+		<a class="btn btn-default button button-small" href="{$base_dir_ssl}">
 			<span><i class="icon-chevron-left"></i> {l s='Home'}</span>
 		</a>
 	</li>

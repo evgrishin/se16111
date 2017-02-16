@@ -133,7 +133,7 @@
 			</a>
 		</li>
 		<li>
-			<a class="btn btn-default button button-small" href="{$base_dir|escape:'html':'UTF-8'}">
+			<a class="btn btn-default button button-small" href="{$base_dir_ssl|escape:'html':'UTF-8'}">
 				<span>
 					<i class="icon-chevron-left"></i>{l s='Home' mod='blockwishlist'}
 				</span>
